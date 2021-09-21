@@ -1,4 +1,4 @@
-# DataFlair-python-Music-Player
+# python-Music-Player
 # vijaysharmag--> vijaysh318@gmail.com
 
 # add many songs to the playlist of python mp3 player
